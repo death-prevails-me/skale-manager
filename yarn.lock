@@ -1724,10 +1724,10 @@
   dependencies:
     "@skalenetwork/ima-interfaces" "^2.0.0-paymaster.0"
 
-"@skalenetwork/paymaster-interfaces@^1.0.0-main.10":
-  version "1.0.0-main.10"
-  resolved "https://registry.yarnpkg.com/@skalenetwork/paymaster-interfaces/-/paymaster-interfaces-1.0.0-main.10.tgz#abe2394bd948c3fac808e8cf09d91b99a59ac94d"
-  integrity sha512-P7Vc5F+hxeBrTDft2Th7jYY1N3lyzxsVMHkGhJd8Xjc3eSs4tLwvOE15vJPVBwwvqgnsdQwtsfNs+vF49o89LA==
+"@skalenetwork/paymaster-interfaces@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@skalenetwork/paymaster-interfaces/-/paymaster-interfaces-1.0.1.tgz#9b07175265ffcc5a2882a41449bec6861460aaa8"
+  integrity sha512-7s4K/B/N17+FVpZaX51igaoq3aaw/piPjbR8FJjM6L+pu41wjnT4mtJQ/WCQuFHoXZFr9Ckri29GCrJ0xxrstg==
   dependencies:
     "@quant-finance/solidity-datetime" "^2.2.0"
 
