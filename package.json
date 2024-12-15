@@ -54,7 +54,7 @@
     "dotenv": "^16.4.5",
     "ethereumjs-util": "^7.1.5",
     "ethers": "^6.13.1",
-    "hardhat": "^2.22.8"
+    "hardhat": "^2.22.16"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-chai-matchers": "^2.0.0",
